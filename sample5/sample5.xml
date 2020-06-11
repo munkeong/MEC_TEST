@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ModelStructure MsgType="S_CLIENT" PortValue="IO_Type">
+  <NModel Name="sample5.xml"/>
+</ModelStructure>
